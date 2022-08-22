@@ -62,6 +62,7 @@
     * [7.2.数据统计分析](https://github.com/gonglei007/GameDevMind/blob/main/mds/7.2.数据统计分析.md)
 * [8.产品商业化](https://github.com/gonglei007/GameDevMind/blob/main/mds/8.产品商业化.md)
     * [8.1.游戏安全](https://github.com/gonglei007/GameDevMind/blob/main/mds/8.1.游戏安全.md)
+    * [8.2.游戏辅助](https://github.com/mj5219054/GameDevMind/blob/main/Documentation/README%20.md)
 
 ----
 ## 缩略预览
